@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    margin-top: 200px;
+    display:flex;
+    align-items: center;
+    flex-direction:column
+}
+
+.container p{
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+}
+
+.container p input{
+    padding: 10px;
+    margin: 20px;
+}
+
+button{
+    padding: 10px 25px;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 15px;
+    
+}
+
+
+h1{
+    margin-bottom: 15px;
+}
